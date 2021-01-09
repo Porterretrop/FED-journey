@@ -43,7 +43,11 @@ I follow the roadmap provided by [Developer Roadmap][1] for front-end developer 
     - [ ] SCSS, personally using Sass framework (CSS pre-processor)
     - [ ] CSS conventions and good practices
     - [ ] **CSS Framework**
-        - [ ] 
+        - [ ] Reactstrap
+        - [ ] Material UI
+        - [ ] Chakra UI
+        - [ ] **Bootstrap**
+        - [ ] *Bulma*  `I am familiar with this one`
 - [ ] __JavaScript__
     - [ ] JS Syntax
     - [ ] _ECMA-Script_
@@ -82,6 +86,8 @@ I follow the roadmap provided by [Developer Roadmap][1] for front-end developer 
         - [ ] StandardJS
     - [ ] Module Bundlers
         - [ ] **Webpack**
+    - [ ] Type Checkers
+        - [ ] TypeScript
 
 ### Through the Omnipresent Web
 
@@ -119,4 +125,13 @@ I follow the roadmap provided by [Developer Roadmap][1] for front-end developer 
         
 ### Reaching Beyond the Veil
 
-- [ ] 
+- [ ] Progressive Web Apps
+    - [ ] Web APIs used in PWAs
+        - [ ] Storage
+        - [ ] Web Sockets
+- [ ] Testing your apps — Learn the difference between:
+    - [ ] Unit test
+    - [ ] Integration test
+    - [ ] Functional test
+- [ ] Web Testing
+    
