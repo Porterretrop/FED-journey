@@ -50,6 +50,12 @@ I follow the roadmap provided by [Developer Roadmap][1] for front-end developer 
         - [ ] *Bulma*  `I am familiar with this one`
 - [ ] __JavaScript__
     - [ ] JS Syntax
+        - [x] Variable
+        - [x] Function
+        - [x] Loop
+        - [ ] Scope
+        - [ ] Closure
+        - [ ] Async
     - [ ] _ECMA-Script_
     - [ ] _DOM Tree Manipulation_
     - [ ] Learn Fetch API/Ajax (XHR)
@@ -134,4 +140,3 @@ I follow the roadmap provided by [Developer Roadmap][1] for front-end developer 
     - [ ] Integration test
     - [ ] Functional test
 - [ ] Web Testing
-    
